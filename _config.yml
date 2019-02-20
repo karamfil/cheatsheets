@@ -25,6 +25,8 @@ exclude:
   - Dockerfile
   - docker_compose.yml
 
+incremental: true
+
 # Markdown
 
 highlighter: false
